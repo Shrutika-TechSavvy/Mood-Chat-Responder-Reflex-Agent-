@@ -6,3 +6,8 @@ Features:
 - Handles negations like “not happy” or “don’t hate” correctly
 - Simple Tkinter GUI
 - Scrollable chat window and text input box
+
+Tech Stcak :
+- Python
+- Tkinter (for GUI)
+  
